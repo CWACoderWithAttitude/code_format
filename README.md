@@ -1,1 +1,3 @@
-# code_format
+# Code format 
+Basic editorConfig settings.
+
